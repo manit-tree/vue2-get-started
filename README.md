@@ -1,24 +1,8 @@
-# hello-world
+# boiler plate for Vue 2 Application
 
-## Project setup
-```
-npm install
-```
+This is a boiler plate that will help you start develop with Vue 2 project quickly.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. clone this project
+2. move to "vue2-get-started", then run "npm install" (to install dependencies)
+3. run "npm run serve" to start devvelopment server
+4. run "npm run build" to create distribution for deployment
