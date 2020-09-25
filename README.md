@@ -1,6 +1,6 @@
 # boiler plate for Vue 2 Application
 
-This is a boiler plate that will help you start develop with Vue 2 project quickly.
+This is a boiler plate that will help you start develop Vue 2 aplication quickly.
 
 1. clone this project
 2. move to "vue2-get-started", then run "npm install" (to install dependencies)
